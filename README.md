@@ -1,4 +1,4 @@
-# ⚙️ 100 Ready-to-Use Python Scripts
+# ⚙️ 100 Ready-to-Use Python Scripts ( In Progress )
 
 Welcome to the ultimate collection of **100+ Python scripts** that you can instantly plug into your projects or use standalone to solve real-world problems.
 
@@ -20,3 +20,5 @@ This repo is a growing toolbox of practical Python scripts, covering:
 - 💬 Text Manipulation
 
 ---
+
+# Maintained by @annuaicoder
