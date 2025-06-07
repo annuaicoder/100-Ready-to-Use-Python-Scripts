@@ -1,7 +1,7 @@
 import webbrowser
 
-# Replace the URL below with any website you want to open
-url = "https://www.example.com"
+# Get website URL from user
+url = input("Enter the website URL (including https:// or http://): ")
 
-# Open the website in the default browser
+# Open the entered website
 webbrowser.open(url)
