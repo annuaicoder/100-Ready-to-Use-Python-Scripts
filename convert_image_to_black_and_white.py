@@ -1,3 +1,5 @@
+# Copyright 2025 ( @annuaicoder )
+
 # Convert any image to black & white.
 
 from PIL import Image
