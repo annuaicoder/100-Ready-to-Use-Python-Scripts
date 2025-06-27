@@ -1,4 +1,5 @@
 # Calculate how many days remain until a future date.
+# Copyright 2025 ( @annuaicoder )
 
 from datetime import datetime
 
