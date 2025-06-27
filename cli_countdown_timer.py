@@ -1,4 +1,5 @@
 # A simple countdown timer in the terminal.
+# Copyright 2025 ( @annuaicoder )
 
 import time
 
