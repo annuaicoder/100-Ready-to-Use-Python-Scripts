@@ -1,4 +1,5 @@
 # Generate fun ASCII art banners from text.
+# Copyright 2025 ( @annuaicoder )
 
 import pyfiglet
 
