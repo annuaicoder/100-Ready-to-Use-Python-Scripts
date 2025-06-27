@@ -1,3 +1,5 @@
+# Copyright 2025 ( @annuaicoder )
+
 # Get current time in any timezone using pytz.
 
 from datetime import datetime
