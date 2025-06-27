@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Deletes all empty files in a directory.
 
 import os
