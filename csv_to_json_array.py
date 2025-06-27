@@ -1,3 +1,5 @@
+# Copyright 2025 ( @annuaicoder )
+
 # Convert a CSV file into a JSON array.
 
 import csv
