@@ -1,3 +1,5 @@
+# Copyright 2025 ( @annuaicoder )
+
 import subprocess
 import re
 import ipaddress
