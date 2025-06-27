@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Detect duplicate files in a folder (by hash).
 
 import os, hashlib
