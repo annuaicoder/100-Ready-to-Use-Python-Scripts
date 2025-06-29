@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Get weather by city name (OpenWeatherMap API key needed).
 
 import requests
