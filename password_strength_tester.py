@@ -1,3 +1,5 @@
+# Copyright 2025 ( @annuaicoder )
+
 import re
 
 def password_strength(password):
