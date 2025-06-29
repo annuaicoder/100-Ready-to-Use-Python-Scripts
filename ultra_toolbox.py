@@ -1,3 +1,5 @@
+# Copyright 2025 ( @annuaicoder )
+
 import os
 import sys
 import random
