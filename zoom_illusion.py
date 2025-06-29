@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 import pygame
 import sys
 import random
