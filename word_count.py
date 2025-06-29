@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Count how often each word appears in a text file.
 
 from collections import Counter
