@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Roll a virtual 6-sided dice.
 
 import random
