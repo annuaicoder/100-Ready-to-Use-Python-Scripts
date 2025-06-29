@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 #  Rename all files in a folder with a pattern
 # (e.g., img_001.jpg, img_002.jpg, ...).
 
