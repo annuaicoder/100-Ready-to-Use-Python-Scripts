@@ -1,3 +1,4 @@
+# # Copyright 2025 ( @annuaicoder )
 # Read out loud any text using your computer’s voice.
 
 import pyttsx3
