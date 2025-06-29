@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Create a random strong password.
 
 import random
