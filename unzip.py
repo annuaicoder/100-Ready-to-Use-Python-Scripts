@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Unzip a .zip file to a specified folder.
 
 import zipfile
