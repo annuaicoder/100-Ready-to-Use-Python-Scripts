@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Send a basic email via Gmail SMTP.
 
 import smtplib
