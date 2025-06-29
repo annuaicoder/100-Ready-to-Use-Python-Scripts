@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Check if a URL is online (200 OK) or down.
 
 import requests
