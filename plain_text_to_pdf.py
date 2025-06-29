@@ -1,3 +1,4 @@
+# Copyright 2025 ( @annuaicoder )
 # Converts any plain text file into a simple PDF.
 
 from fpdf import FPDF
