@@ -23,4 +23,4 @@ This repo is a growing toolbox of practical Python scripts, covering:
 
 New Scripts Are Added Very Often.
 
-# Maintained by @annuaicoder / @codewitha
+# Maintained by @annuaicoder / @codewith
